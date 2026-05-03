@@ -1,0 +1,7 @@
+IBM Bob was used during development for:
+- Code generation
+- Debugging
+- Improving logic
+- UI suggestions
+
+Screenshots of usage are included in this folder.
